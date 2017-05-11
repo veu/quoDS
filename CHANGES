@@ -1,0 +1,24 @@
+ _______________________________________________________________
+|_Version 1.2___________________________________________________|
+|
+| * Added sound (background music and timeout notice)
+| * Showing current player
+| * Bugfixes
+|
+ _______________________________________________________________
+|_Version 1.1___________________________________________________|
+|
+| * New button layout
+| * Timeout option
+| * Bugfixes
+|
+ _______________________________________________________________
+|_Version 1.0.1_________________________________________________|
+|
+| * Input fix
+| * Drawing square outline
+| * Displaying version number
+| * Made blocker pieces darker
+| * Added manual mode to slow down AI play
+|
+
